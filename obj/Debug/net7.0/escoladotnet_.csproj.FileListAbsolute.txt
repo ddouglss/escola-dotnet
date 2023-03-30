@@ -1,0 +1,62 @@
+C:\Users\Douglas\OneDrive\Ambiente de Trabalho\dotnet-escola\escoladotnet_\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Douglas\OneDrive\Ambiente de Trabalho\dotnet-escola\escoladotnet_\bin\Debug\net7.0\appsettings.json
+C:\Users\Douglas\OneDrive\Ambiente de Trabalho\dotnet-escola\escoladotnet_\bin\Debug\net7.0\escoladotnet_.staticwebassets.runtime.json
+C:\Users\Douglas\OneDrive\Ambiente de Trabalho\dotnet-escola\escoladotnet_\bin\Debug\net7.0\escoladotnet_.exe
+C:\Users\Douglas\OneDrive\Ambiente de Trabalho\dotnet-escola\escoladotnet_\bin\Debug\net7.0\escoladotnet_.deps.json
+C:\Users\Douglas\OneDrive\Ambiente de Trabalho\dotnet-escola\escoladotnet_\bin\Debug\net7.0\escoladotnet_.runtimeconfig.json
+C:\Users\Douglas\OneDrive\Ambiente de Trabalho\dotnet-escola\escoladotnet_\bin\Debug\net7.0\escoladotnet_.dll
+C:\Users\Douglas\OneDrive\Ambiente de Trabalho\dotnet-escola\escoladotnet_\bin\Debug\net7.0\escoladotnet_.pdb
+C:\Users\Douglas\OneDrive\Ambiente de Trabalho\dotnet-escola\escoladotnet_\obj\Debug\net7.0\escoladotnet_.csproj.AssemblyReference.cache
+C:\Users\Douglas\OneDrive\Ambiente de Trabalho\dotnet-escola\escoladotnet_\obj\Debug\net7.0\escoladotnet_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Douglas\OneDrive\Ambiente de Trabalho\dotnet-escola\escoladotnet_\obj\Debug\net7.0\escoladotnet_.AssemblyInfoInputs.cache
+C:\Users\Douglas\OneDrive\Ambiente de Trabalho\dotnet-escola\escoladotnet_\obj\Debug\net7.0\escoladotnet_.AssemblyInfo.cs
+C:\Users\Douglas\OneDrive\Ambiente de Trabalho\dotnet-escola\escoladotnet_\obj\Debug\net7.0\escoladotnet_.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\OneDrive\Ambiente de Trabalho\dotnet-escola\escoladotnet_\obj\Debug\net7.0\escoladotnet_.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Douglas\OneDrive\Ambiente de Trabalho\dotnet-escola\escoladotnet_\obj\Debug\net7.0\escoladotnet_.RazorAssemblyInfo.cache
+C:\Users\Douglas\OneDrive\Ambiente de Trabalho\dotnet-escola\escoladotnet_\obj\Debug\net7.0\escoladotnet_.RazorAssemblyInfo.cs
+C:\Users\Douglas\OneDrive\Ambiente de Trabalho\dotnet-escola\escoladotnet_\obj\Debug\net7.0\staticwebassets\msbuild.escoladotnet_.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Douglas\OneDrive\Ambiente de Trabalho\dotnet-escola\escoladotnet_\obj\Debug\net7.0\staticwebassets\msbuild.build.escoladotnet_.props
+C:\Users\Douglas\OneDrive\Ambiente de Trabalho\dotnet-escola\escoladotnet_\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.escoladotnet_.props
+C:\Users\Douglas\OneDrive\Ambiente de Trabalho\dotnet-escola\escoladotnet_\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.escoladotnet_.props
+C:\Users\Douglas\OneDrive\Ambiente de Trabalho\dotnet-escola\escoladotnet_\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Douglas\OneDrive\Ambiente de Trabalho\dotnet-escola\escoladotnet_\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Douglas\OneDrive\Ambiente de Trabalho\dotnet-escola\escoladotnet_\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Douglas\OneDrive\Ambiente de Trabalho\dotnet-escola\escoladotnet_\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Douglas\OneDrive\Ambiente de Trabalho\dotnet-escola\escoladotnet_\obj\Debug\net7.0\scopedcss\bundle\escoladotnet_.styles.css
+C:\Users\Douglas\OneDrive\Ambiente de Trabalho\dotnet-escola\escoladotnet_\obj\Debug\net7.0\scopedcss\projectbundle\escoladotnet_.bundle.scp.css
+C:\Users\Douglas\OneDrive\Ambiente de Trabalho\dotnet-escola\escoladotnet_\obj\Debug\net7.0\escoladotnet_.dll
+C:\Users\Douglas\OneDrive\Ambiente de Trabalho\dotnet-escola\escoladotnet_\obj\Debug\net7.0\refint\escoladotnet_.dll
+C:\Users\Douglas\OneDrive\Ambiente de Trabalho\dotnet-escola\escoladotnet_\obj\Debug\net7.0\escoladotnet_.pdb
+C:\Users\Douglas\OneDrive\Ambiente de Trabalho\dotnet-escola\escoladotnet_\obj\Debug\net7.0\escoladotnet_.genruntimeconfig.cache
+C:\Users\Douglas\OneDrive\Ambiente de Trabalho\dotnet-escola\escoladotnet_\obj\Debug\net7.0\ref\escoladotnet_.dll
+C:\Users\note\Desktop\dotnet-teste\dotnet-teste\escoladotnet_\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\note\Desktop\dotnet-teste\dotnet-teste\escoladotnet_\bin\Debug\net7.0\appsettings.json
+C:\Users\note\Desktop\dotnet-teste\dotnet-teste\escoladotnet_\bin\Debug\net7.0\escoladotnet_.staticwebassets.runtime.json
+C:\Users\note\Desktop\dotnet-teste\dotnet-teste\escoladotnet_\bin\Debug\net7.0\escoladotnet_.exe
+C:\Users\note\Desktop\dotnet-teste\dotnet-teste\escoladotnet_\bin\Debug\net7.0\escoladotnet_.deps.json
+C:\Users\note\Desktop\dotnet-teste\dotnet-teste\escoladotnet_\bin\Debug\net7.0\escoladotnet_.runtimeconfig.json
+C:\Users\note\Desktop\dotnet-teste\dotnet-teste\escoladotnet_\bin\Debug\net7.0\escoladotnet_.dll
+C:\Users\note\Desktop\dotnet-teste\dotnet-teste\escoladotnet_\bin\Debug\net7.0\escoladotnet_.pdb
+C:\Users\note\Desktop\dotnet-teste\dotnet-teste\escoladotnet_\obj\Debug\net7.0\escoladotnet_.csproj.AssemblyReference.cache
+C:\Users\note\Desktop\dotnet-teste\dotnet-teste\escoladotnet_\obj\Debug\net7.0\escoladotnet_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\note\Desktop\dotnet-teste\dotnet-teste\escoladotnet_\obj\Debug\net7.0\escoladotnet_.AssemblyInfoInputs.cache
+C:\Users\note\Desktop\dotnet-teste\dotnet-teste\escoladotnet_\obj\Debug\net7.0\escoladotnet_.AssemblyInfo.cs
+C:\Users\note\Desktop\dotnet-teste\dotnet-teste\escoladotnet_\obj\Debug\net7.0\escoladotnet_.csproj.CoreCompileInputs.cache
+C:\Users\note\Desktop\dotnet-teste\dotnet-teste\escoladotnet_\obj\Debug\net7.0\escoladotnet_.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\note\Desktop\dotnet-teste\dotnet-teste\escoladotnet_\obj\Debug\net7.0\escoladotnet_.RazorAssemblyInfo.cache
+C:\Users\note\Desktop\dotnet-teste\dotnet-teste\escoladotnet_\obj\Debug\net7.0\escoladotnet_.RazorAssemblyInfo.cs
+C:\Users\note\Desktop\dotnet-teste\dotnet-teste\escoladotnet_\obj\Debug\net7.0\staticwebassets\msbuild.escoladotnet_.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\note\Desktop\dotnet-teste\dotnet-teste\escoladotnet_\obj\Debug\net7.0\staticwebassets\msbuild.build.escoladotnet_.props
+C:\Users\note\Desktop\dotnet-teste\dotnet-teste\escoladotnet_\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.escoladotnet_.props
+C:\Users\note\Desktop\dotnet-teste\dotnet-teste\escoladotnet_\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.escoladotnet_.props
+C:\Users\note\Desktop\dotnet-teste\dotnet-teste\escoladotnet_\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\note\Desktop\dotnet-teste\dotnet-teste\escoladotnet_\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\note\Desktop\dotnet-teste\dotnet-teste\escoladotnet_\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\note\Desktop\dotnet-teste\dotnet-teste\escoladotnet_\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\note\Desktop\dotnet-teste\dotnet-teste\escoladotnet_\obj\Debug\net7.0\scopedcss\bundle\escoladotnet_.styles.css
+C:\Users\note\Desktop\dotnet-teste\dotnet-teste\escoladotnet_\obj\Debug\net7.0\scopedcss\projectbundle\escoladotnet_.bundle.scp.css
+C:\Users\note\Desktop\dotnet-teste\dotnet-teste\escoladotnet_\obj\Debug\net7.0\escoladotnet_.dll
+C:\Users\note\Desktop\dotnet-teste\dotnet-teste\escoladotnet_\obj\Debug\net7.0\refint\escoladotnet_.dll
+C:\Users\note\Desktop\dotnet-teste\dotnet-teste\escoladotnet_\obj\Debug\net7.0\escoladotnet_.pdb
+C:\Users\note\Desktop\dotnet-teste\dotnet-teste\escoladotnet_\obj\Debug\net7.0\escoladotnet_.genruntimeconfig.cache
+C:\Users\note\Desktop\dotnet-teste\dotnet-teste\escoladotnet_\obj\Debug\net7.0\ref\escoladotnet_.dll

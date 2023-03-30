@@ -1,0 +1,76 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Escola Dotnet</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/escoladotnet_.styles.css" asp-append-version="true" />
+</head>
+
+<body>
+    <!--poderoso chefão -->
+    <div class="conteiner-fluid">
+
+        <!--Primeira linha Topo-->
+        <div class="row">
+            <nav
+                class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index"><img
+                        src="~/img/logo-teste.png" width="200px"></a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse"
+                    aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" id="colaps">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1" id="menu">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Cursos</a>
+                        </li>
+
+                         <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Competência</a>
+                        </li>
+
+                         <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Aluno</a>
+                        </li>
+
+                    </ul>
+                </div>
+            </nav>
+        </div>
+
+        <!--Corpo-->
+
+        <div class="container">
+            <main role="main" class="pb-3">
+                @RenderBody() <!-- vou injetar a página de conteúdo aqui-->
+            </main>
+        </div>
+
+        <!--Rodapé-->
+
+        <footer class="border-top footer text-muted">  <center>
+            <div class="container"> <h5>Parcerias</h5> 
+           
+            <img src="~/img/fapdf.png" width="80px" class="object-fit-sm-contain " alt="..." >
+            <img src="~/img/senaiplay.png" width ="70px" class="object-fit-md-contain" alt="...">
+            <img src="~/img/senai-logo-1.png" width="50px" class="object-fit-lg-contain " alt="...">
+            <img src="~/img/intelbras.png" width="60px" class="object-fit-lg-contain " alt="...">
+            <img src="~/img/Google-Classroom-Logo.png" width="70px" class="object-fit-xl-contain " alt="...">
+            <img src="~/img/gdf.png" width="60px" class="object-fit-xxl-contain " alt="..."></center>
+            </div>
+
+        </footer>
+
+    </div> <!--fim do poderoso chefão -->
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+
+</html>

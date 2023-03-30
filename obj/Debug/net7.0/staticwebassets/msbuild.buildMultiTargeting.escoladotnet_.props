@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\escoladotnet_.props" />
+</Project>
